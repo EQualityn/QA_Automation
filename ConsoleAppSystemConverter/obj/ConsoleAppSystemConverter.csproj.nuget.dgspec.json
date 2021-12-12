@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EDUCATION\\QA-Automation\\ConsoleAppSystemTransfer\\ConsoleAppSystemTransfer.csproj": {}
+    "C:\\EDUCATION\\QA-Automation\\ConsoleAppSystemConverter\\ConsoleAppSystemConverter.csproj": {}
   },
   "projects": {
-    "C:\\EDUCATION\\QA-Automation\\ConsoleAppSystemTransfer\\ConsoleAppSystemTransfer.csproj": {
+    "C:\\EDUCATION\\QA-Automation\\ConsoleAppSystemConverter\\ConsoleAppSystemConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EDUCATION\\QA-Automation\\ConsoleAppSystemTransfer\\ConsoleAppSystemTransfer.csproj",
-        "projectName": "ConsoleAppSystemTransfer",
-        "projectPath": "C:\\EDUCATION\\QA-Automation\\ConsoleAppSystemTransfer\\ConsoleAppSystemTransfer.csproj",
+        "projectUniqueName": "C:\\EDUCATION\\QA-Automation\\ConsoleAppSystemConverter\\ConsoleAppSystemConverter.csproj",
+        "projectName": "ConsoleAppSystemConverter",
+        "projectPath": "C:\\EDUCATION\\QA-Automation\\ConsoleAppSystemConverter\\ConsoleAppSystemConverter.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\EDUCATION\\QA-Automation\\ConsoleAppSystemTransfer\\obj\\",
+        "outputPath": "C:\\EDUCATION\\QA-Automation\\ConsoleAppSystemConverter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

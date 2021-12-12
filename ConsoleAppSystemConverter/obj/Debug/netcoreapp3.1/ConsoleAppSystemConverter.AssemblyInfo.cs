@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppSystemTransfer")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppSystemConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppSystemTransfer")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppSystemTransfer")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppSystemConverter")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppSystemConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
