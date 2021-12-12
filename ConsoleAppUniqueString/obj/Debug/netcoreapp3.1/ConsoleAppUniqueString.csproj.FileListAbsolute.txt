@@ -1,0 +1,14 @@
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\bin\Debug\netcoreapp3.1\ConsoleAppUniqueString.exe
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\bin\Debug\netcoreapp3.1\ConsoleAppUniqueString.deps.json
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\bin\Debug\netcoreapp3.1\ConsoleAppUniqueString.runtimeconfig.json
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\bin\Debug\netcoreapp3.1\ConsoleAppUniqueString.runtimeconfig.dev.json
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\bin\Debug\netcoreapp3.1\ConsoleAppUniqueString.dll
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\bin\Debug\netcoreapp3.1\ConsoleAppUniqueString.pdb
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\obj\Debug\netcoreapp3.1\ConsoleAppUniqueString.csproj.AssemblyReference.cache
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\obj\Debug\netcoreapp3.1\ConsoleAppUniqueString.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\obj\Debug\netcoreapp3.1\ConsoleAppUniqueString.AssemblyInfoInputs.cache
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\obj\Debug\netcoreapp3.1\ConsoleAppUniqueString.AssemblyInfo.cs
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\obj\Debug\netcoreapp3.1\ConsoleAppUniqueString.csproj.CoreCompileInputs.cache
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\obj\Debug\netcoreapp3.1\ConsoleAppUniqueString.dll
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\obj\Debug\netcoreapp3.1\ConsoleAppUniqueString.pdb
+C:\EDUCATION\QA-Automation\ConsoleAppUniqueString\obj\Debug\netcoreapp3.1\ConsoleAppUniqueString.genruntimeconfig.cache
